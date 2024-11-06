@@ -1,0 +1,2272 @@
+[
+    {
+        "Model": "Galaxy A04s",
+        "Variantes": "SM-A047M, SM-A047F",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A13",
+        "Variantes": "SM-A137F, SM-A135N, SM-A135M, SM-A135F, SM-A135U1, SM-A135U",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A13 5G",
+        "Variantes": "SM-A136M, SM-A136B, SM-A136S",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A14",
+        "Variantes": "SM-A145MB, SM-A145FB",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A15",
+        "Variantes": "SM-A155F, SM-A155M, SM-A155N",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A15 5G",
+        "Variantes": "SM-A1560, SM-A156E, SM-A156M, SM-S156V, SM-A156U, SM-A156W, SM-A156U1, SM-A156B, SM-A156L",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A23",
+        "Variantes": "SM-A235F, SM-A235M, SM-A235N",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A23 5G",
+        "Variantes": "SM-A2360, SM-A236B, SM-A236M, SM-A236E, SM-A236V, SM-A236U1, SM-S236DL, SM-A236U, SM-S237VL",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A23e 5G",
+        "Variantes": "SC-56C, SM-A233C, SCG18",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A24",
+        "Variantes": "SM-A245M, SM-A245F, SM-A245N",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A25 5G",
+        "Variantes": "SM-A2560, SM-A256N, SM-A256E, SM-S256VL, SM-A256U1, SM-A256U, SM-A256B",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A33 5G",
+        "Variantes": "SM-A336B, SM-A3360, SM-A336M, SM-A336N, SM-A336E",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A34 5G",
+        "Variantes": "SM-A346B, SM-A346M, SM-A3460, SM-A346N, SM-A346E",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A35 5G",
+        "Variantes": "SM-A356B, SM-A356E, SM-A3560, SM-A356W, SM-A356U, SM-A356U1, SM-S356V",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A52",
+        "Variantes": "SM-A525F, SM-A525M",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A52 5G",
+        "Variantes": "SM-A526B, SM-A5260, SM-A526U, SM-A526U1, SM-A526W, SC-53B",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A52s 5G",
+        "Variantes": "SM-A528B, SM-A528N",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A53 5G",
+        "Variantes": "SM-A536B, SM-A536E, SM-A5360, SM-A536W, SM-A536N, SCG15, SC-53C, SM-A536U, SM-A536V, SM-S536DL, SM-A536U1",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A54 5G",
+        "Variantes": "SM-A546B, SM-A5460, SC-53D, SM-A546W, SM-A546S, SM-A546E, SCG21, SM-E546B, SM-A546V, SM-A546U1, SM-A546U, SM-S546VL",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A55 5G",
+        "Variantes": "SM-A556B, SM-A556E, SM-A5560, SC-53E, SCG27",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A72",
+        "Variantes": "SM-A725M, SM-A725F",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A73 5G",
+        "Variantes": "SM-A736B",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A82 5G",
+        "Variantes": "SM-A826S",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy C55 5G",
+        "Variantes": "SM-C5560",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy F13",
+        "Variantes": "SM-E135F",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy F14 5G",
+        "Variantes": "SM-E146B",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy F15 5G",
+        "Variantes": "SM-E156B",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy F34 5G",
+        "Variantes": "SM-E346B",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy F55 5G",
+        "Variantes": "SM-E556B",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy M13",
+        "Variantes": "SM-M135F, SM-M135FU, SM-M135M",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy M13 5G",
+        "Variantes": "SM-M136B",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy M14 5G",
+        "Variantes": "SM-M146B",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy M15 5G",
+        "Variantes": "SM-M156B",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy M23 5G",
+        "Variantes": "SM-E236B, SM-M236B, SM-M236L, SM-M236Q",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy M33 5G",
+        "Variantes": "SM-M336B, SM-M336BU, SM-M336K",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy M34 5G",
+        "Variantes": "SM-M346B, SM-M346B2, SM-M346B1",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy M35 5G",
+        "Variantes": "SM-M356B",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy M44 5G",
+        "Variantes": "SM-M446K",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy M53 5G",
+        "Variantes": "SM-M536B, SM-M536S",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy M54 5G",
+        "Variantes": "SM-M546B",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy M55 5G",
+        "Variantes": "SM-M556B, SM-M556E",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S21 5G",
+        "Variantes": "SM-G991W, SM-G991B, SM-G991N, SM-G9910, SCG09, SM-G991U, SM-G991U1, SC-51B",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S21 FE 5G",
+        "Variantes": "SM-G990B, SM-G990W2, SM-G990W, SM-G9900, SM-G990B2, SM-G990E, SM-G990U, SM-G990U2, SM-G990U1, SM-G990U3",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S21 Ultra 5G",
+        "Variantes": "SM-G998W, SM-G998B, SM-G998N, SM-G9980, SM-G998U, SM-G998U1, SC-52B",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S21 5G",
+        "Variantes": "SM-G996W, SM-G996B, SM-G996N, SM-G9960, SCG10, SM-G996U, SM-G996U1",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S22",
+        "Variantes": "SM-S901B, SM-S901W, SM-S901N, SC-51C, SCG13, SM-S901E, SM-S901U, SM-S901U1, SM-S9010",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S22 Ultra",
+        "Variantes": "SM-S908B, SM-S908W, SC-52C, SM-S908N, SM-S908E, SM-S908U, SM-S908U1, SM-S9080, SCG14",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S22",
+        "Variantes": "SM-S906B, SM-S906W, SM-S906N, SM-S906E, SM-S906U, SM-S906U1, SM-S9060",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S23",
+        "Variantes": "SM-S911BE, SM-S911B, SM-S911N, SM-S9110, SM-S911W, SM-S911U, SM-S911C, SC-51D, SCG19",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S23 FE",
+        "Variantes": "SM-S711B, SM-S711N, SM-S711BE, SM-S711U, SM-S7110, SM-S711W, SM-S711U1, SCG24",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S23 Ultra",
+        "Variantes": "SM-S918BE, SM-S918B, SM-S918N, SM-S918U1, SM-S9180, SM-S918W, SM-S918Q, SC-52D, SM-S918U, SCG20",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S23",
+        "Variantes": "SM-S916B, SM-S916BE, SM-S916N, SM-S9160, SM-S916W, SM-S916U1, SM-S916U",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S24",
+        "Variantes": "SM-S921N, SM-S9210, SM-S921BE, SM-S921U1, SM-S921U, SM-S921W, SM-S921B, SM-S921Q, SC-51E, SCG25",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S24 Ultra",
+        "Variantes": "SM-S928U, SM-S928B, SM-S928N, SM-S9280, SM-S928BE, SM-S928U1, SM-S928W, SM-S928Q, SCG26, SC-52E",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S24",
+        "Variantes": "SM-S926U, SM-S926N, SM-S9260, SM-S926BE, SM-S926U1, SM-S926W, SM-S926B",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab A7 Lite",
+        "Variantes": "SM-T225C, SM-T225N, SM-T225, SM-T220, SM-T227, SM-T227U",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab A8",
+        "Variantes": "SM-X205, SM-X205C, SM-X200, SM-X207",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab A9",
+        "Variantes": "SM-X110, SM-X115N, SM-X117",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab A9 LTE",
+        "Variantes": "SM-X115",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab A9",
+        "Variantes": "SM-X210",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab A9 5G",
+        "Variantes": "SM-X216C, SM-X218B, SM-X216B, SM-X216N, SM-X218U",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab Active4 Pro",
+        "Variantes": "SM-T630, SM-T638B",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab Active4 Pro 5G",
+        "Variantes": "SM-T636B, SM-T636N, SM-T638U",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab Active5",
+        "Variantes": "SM-X300",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab Active5 5G",
+        "Variantes": "SM-X306B, SM-X308B, SM-X308U, SM-X306N",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab S6 Lite",
+        "Variantes": "SM-P619N, SM-P613, SM-P619, SM-P625, SM-P620",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab S7 FE",
+        "Variantes": "SM-T735C, SM-T737, SM-T735N, SM-T735, SM-T738U",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab S7 FE 5G",
+        "Variantes": "SM-T736N, SM-T736B",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab S8",
+        "Variantes": "SM-X706N, SM-X706C, SM-X700, SM-X706B",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab S8 Ultra",
+        "Variantes": "SM-X906N, SM-X906C, SM-X906B, SM-X900",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab S8",
+        "Variantes": "SM-X806N, SM-X806C, SM-X800, SM-X806E, SM-X806B",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab S9",
+        "Variantes": "SM-X710",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab S9 5G",
+        "Variantes": "SM-X716B, SM-X716N",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab S9 FE",
+        "Variantes": "SM-X510",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab S9 FE 5G",
+        "Variantes": "SM-X516C, SM-X516B, SM-X516N, SM-X518U",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab S9 FE",
+        "Variantes": "SM-X610",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab S9 FE 5G",
+        "Variantes": "SM-X616C, SM-X616B, SCT22, SM-X616N",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab S9 Ultra",
+        "Variantes": "SM-X910",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab S9 Ultra 5G",
+        "Variantes": "SM-X916N, SM-X916C, SM-X916B",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab S9",
+        "Variantes": "SM-X810",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab S9 5G",
+        "Variantes": "SM-X816N, SM-X816B, SM-X818U",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy XCover5",
+        "Variantes": "SM-G525F, SM-G525N",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy XCover6 Pro",
+        "Variantes": "SM-G736B, SM-G736U, SM-G736W",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy XCover7",
+        "Variantes": "SM-G556B",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Z Flip3 5G",
+        "Variantes": "SM-F711N, SM-F711W, SM-F711B, SM-F711U, SM-F711U1, SM-F7110, SC-54B, SCG12",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Z Flip4 5G",
+        "Variantes": "SM-F721BE, SM-F721W, SM-F721U, SM-F721N, SM-F7210, SCG17, SC-54C, SM-F721B, SM-F721C, SM-F721U1",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Z Flip5",
+        "Variantes": "SM-F731Q, SC-54D, SM-F731W, SCG23, SM-F731U, SM-F731U1, SM-F731N, SM-F731B, SM-F731BE, SM-F7310",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Z Fold3 5G",
+        "Variantes": "SM-F926N, SM-F926W, SCG11, SC-55B, SM-F926B, SM-F926U, SM-F926U1, SM-F9260",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Z Fold4 5G",
+        "Variantes": "SM-F936N, SM-F9360, SM-F936W, SM-F936U, SM-F936U1, SM-F936BE, SM-F936B, SCG16, SC-55C",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Z Fold5",
+        "Variantes": "SM-F946Q, SC-55D, SM-F946N, SM-F9460, SM-F946W, SM-F946BE, SM-F946B, SM-F946U1, SM-F946U, SCG22",
+        "Support": "Yes"
+    },
+    {
+        "Model": "W22 5G",
+        "Variantes": "SM-W2022",
+        "Support": "Yes"
+    },
+    {
+        "Model": "W23",
+        "Variantes": "SM-W9023",
+        "Support": "Yes"
+    },
+    {
+        "Model": "W23 Flip",
+        "Variantes": "SM-W7023",
+        "Support": "Yes"
+    },
+    {
+        "Model": "W24",
+        "Variantes": "SM-W9024",
+        "Support": "Yes"
+    },
+    {
+        "Model": "W24 Flip",
+        "Variantes": "SM-W7024",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A12",
+        "Variantes": "SM-A127M, SM-A127F",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A13 5G",
+        "Variantes": "SM-A136U, SM-A136W, SM-A136U1, SM-S136DL",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A22",
+        "Variantes": "SM-A225M, SM-A225F",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A22e 5G",
+        "Variantes": "SC-56B",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A32",
+        "Variantes": "SM-A325M, SM-A325F, SM-A325N",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A32 5G",
+        "Variantes": "SM-A326K, SM-A326BR, SM-A326B, SM-A326U, SM-A326W, SCG08, SM-S326DL, SM-A326U1",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A42 5G",
+        "Variantes": "SM-A426N, SM-S426DL, SM-A426U1, SM-A426U",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A51",
+        "Variantes": "SM-A515F, SM-A515U, SM-A515W, SM-A515U1, SM-S515DL",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A51 5G",
+        "Variantes": "SM-A516N, SM-A516B, SM-A5160, SM-A516V, SCG07, SC-54A, SM-A516U, SM-A516U1",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A71",
+        "Variantes": "SM-A715F, SM-A715W",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A71 5G",
+        "Variantes": "SM-A716B, SM-A7160, SM-A716S, SM-A716U, SM-A716V, SM-A716U1",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy F12",
+        "Variantes": "SM-F127G",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy F22",
+        "Variantes": "SM-E225F",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy F62",
+        "Variantes": "SM-E625F",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy M12",
+        "Variantes": "SM-M127G, SM-M127N, SM-M127F",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy M22",
+        "Variantes": "SM-M225FV",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy M32",
+        "Variantes": "SM-M325F, SM-M325FV",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy M32 5G",
+        "Variantes": "SM-M326B",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy M42 5G",
+        "Variantes": "SM-M426B",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy M52 5G",
+        "Variantes": "SM-M526BR, SM-M526B",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy M62",
+        "Variantes": "SM-M625F",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Note10 Lite",
+        "Variantes": "SM-N770F",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Note20",
+        "Variantes": "SM-N980F",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Note20 5G",
+        "Variantes": "SM-N981W, SM-N981N, SM-N981U, SM-N981BR, SM-N981B, SM-N9810, SM-N981U1",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Note20 Ultra 5G",
+        "Variantes": "SM-N986N, SM-N986BR, SM-N986U, SM-N986B, SCG06, SM-N986W, SM-N986U1, SC-53A",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Note20 Ultra 5G",
+        "Variantes": "SM-N9860, SM-N985F",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S10 Lite",
+        "Variantes": "SM-G770F, SM-G770U1",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S20",
+        "Variantes": "SM-G980F",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S20 5G",
+        "Variantes": "SM-G981U, SM-G981N, SM-G981B, SM-G981V, SM-G981W, SM-G9810, SM-G981U1, SCG01",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S20 5G",
+        "Variantes": "SC51Aa, SC-51A",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S20 FE",
+        "Variantes": "SM-G780F, SM-G780G",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S20 FE 5G",
+        "Variantes": "SM-G781V, SM-G781U, SM-G781N, SM-G781B, SM-G781W, SM-G7810, SM-G781U1",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S20 Ultra",
+        "Variantes": "SM-G988BR, SM-G9880, SM-G988W, SM-G988U1, SCG03",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S20 Ultra",
+        "Variantes": "SM-G988U, SM-G988N, SM-G988B",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S20",
+        "Variantes": "SM-G985F",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S20 5G",
+        "Variantes": "SM-G986U, SM-G986N, SM-G986BR, SM-G986B, SM-G986W, SM-G986U1, SM-G9860, SCG02, SC-52A",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S23",
+        "Variantes": "SM-S911U1",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab A8",
+        "Variantes": "SM-X205N",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab Active3",
+        "Variantes": "SM-T577, SM-T575N, SM-T570, SM-T575, SM-T577U",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab S6 Lite",
+        "Variantes": "SM-P610, SM-P615, SM-P617, SM-P615N, SM-P615C",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab S7",
+        "Variantes": "SM-T875N, SM-T875, SM-T870, SM-T878U",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab S7 FE",
+        "Variantes": "SM-T733",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab S7",
+        "Variantes": "SM-T975N, SM-T976N, SM-T975, SM-T976B, SM-T970, SM-T978U",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab S8",
+        "Variantes": "SM-X808U",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy XCover Pro",
+        "Variantes": "SM-G715U1, SM-G715U, SM-G715W, SM-G715FN, SM-G715A",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy XCover6 Pro",
+        "Variantes": "SM-G736U1",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Z Flip",
+        "Variantes": "SM-F700J, SM-F700N, SM-F700U, SM-F700U1, SM-F700F, SM-F7000, SM-F700W, SCV47",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Z Flip 5G",
+        "Variantes": "SM-F707N, SM-F707U, SM-F707B, SM-F7070Y, SM-F7070, SM-F707W, SM-F707U1, SCG04",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Z Fold2",
+        "Variantes": "SM-F916B",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Z Fold2 5G",
+        "Variantes": "SM-F916N, SM-F916U, SM-F9160, SM-F916W, SM-F916Q, SCG05, SM-F916U1",
+        "Support": "Yes"
+    },
+    {
+        "Model": "W21 5G",
+        "Variantes": "SM-W2021",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A12",
+        "Variantes": "SM-A125M, SM-A125F, SM-A125W, SM-A125N, SM-A125U, SM-S127DL, SM-A125U1",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A21",
+        "Variantes": "SM-A217N, SM-A217M",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A21s",
+        "Variantes": "SM-A217F",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A23 5G",
+        "Variantes": "SM-A233D, SM-A233J",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A31",
+        "Variantes": "SM-A315N, SM-A315F, SM-A315G",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A41",
+        "Variantes": "SM-A415F, SCV48, SC-41A",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A42 5G",
+        "Variantes": "SM-A4260, SM-A426B",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A90 5G",
+        "Variantes": "SM-A908B, SM-A908N, SM-A9080",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Fold",
+        "Variantes": "SM-F900F, SM-F900U, SM-F9000, SCV44, SM-F900U1, SM-F907N, SM-F900W",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Fold 5G",
+        "Variantes": "SM-F907B",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy M31s",
+        "Variantes": "SM-M317F",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy M51",
+        "Variantes": "SM-M515F",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Note10",
+        "Variantes": "SM-N970U, SM-N970F",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Note10",
+        "Variantes": "SM-N9700, SM-N970W, SM-N970U1",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Note10 5G",
+        "Variantes": "SM-N971N",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Note10",
+        "Variantes": "SM-N975U, SM-N975F, SM-N975W, SM-N975U1, SC-01M, SM-N975C, SCV45, SM-N9750",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Note10 5G",
+        "Variantes": "SM-N9760",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Note10 5G",
+        "Variantes": "SM-N976V, SM-N976B, SM-N976U, SM-N976N, SM-N976Q",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S10",
+        "Variantes": "SM-G9730",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S10",
+        "Variantes": "SM-G973F, SM-G973U, SM-G973N, SM-G9738, SM-G973W, SM-G973C, SM-G973U1, SC-03L, SCV41",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S10 5G",
+        "Variantes": "SM-G977B, SM-G977P, SM-G977T, SM-G977N, SM-G977U",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S10",
+        "Variantes": "SM-G9750",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S10",
+        "Variantes": "SM-G975F, SM-G975FC, SM-G975U, SM-G975UC, SM-G975N, SM-G975NC, SM-G9750C, SM-G9758, SM-G975WC, SM-G975W, SM-G975U2, SM-G975U1, SC-05L, SCV42, SC-04L",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S10e",
+        "Variantes": "SM-G970F, SM-G970N, SM-G970U, SM-G9708, SM-G970W, SM-G970U1",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S10e",
+        "Variantes": "SM-G9700",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab A7",
+        "Variantes": "SM-T503, SM-T509",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab A7",
+        "Variantes": "SM-T507, SM-T505N, SM-T505C, SM-T500, SM-T505",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab Motor",
+        "Variantes": "SM-T260",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab S6",
+        "Variantes": "SM-T865N, SM-T867U, SM-T867R4",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab S6",
+        "Variantes": "SM-T860, SM-T865, SM-T867, SM-T867V",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab S6 5G",
+        "Variantes": "SM-T866N",
+        "Support": "Yes"
+    },
+    {
+        "Model": "W20 5G",
+        "Variantes": "SM-W2020",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab Active Pro",
+        "Variantes": "SM-T545, SM-T540, SM-T547, SM-T547U",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy XCover4s",
+        "Variantes": "SM-G398FN",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A10",
+        "Variantes": "SM-A105N, SM-A105FN, SM-A105F, SM-A105G, SM-A105M",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A10e",
+        "Variantes": "SCV49, SC-42A, SM-A102N, SM-A102U, SM-A102W, SC-02M, SCV46, SM-A102U1, SM-S102DL",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A20",
+        "Variantes": "SM-A205FN, SM-A205S, SM-A205YN, SM-A205G, SM-A205GN, SM-A205F, SM-A205U, SM-A205W, SM-A205U1, SM-S205DL",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A20e",
+        "Variantes": "SM-A202F, SM-A202K",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A30",
+        "Variantes": "SM-A305FN, SM-A305GT, SM-A305YN, SM-A3058, SM-A3050, SM-A305G, SM-A3051, SM-A305F, SM-A305GN, SM-A305N",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A30s",
+        "Variantes": "SM-A307FN, SM-A307G, SM-A307GN, SM-A307GT",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A40",
+        "Variantes": "SM-A405FN, SM-A405FM, SM-A405S",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A50",
+        "Variantes": "SM-A505GT, SM-A505G, SM-A505GN, SM-A505YN, SM-A505F, SM-A505FM, SM-A505FN, SM-A505U, SM-A505N, SM-A505W, SM-S506DL, SM-A505U1",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A50s",
+        "Variantes": "SM-A507FN, SM-A5070",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A60",
+        "Variantes": "SM-A6060, SM-A606Y",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A70",
+        "Variantes": "SM-A705FN, SM-A705U, SM-A705YN, SM-A705W, SM-A705GM, SM-A7050, SM-A705F, SM-A705MN",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A70s",
+        "Variantes": "SM-A7070, SM-A707F",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A80",
+        "Variantes": "SM-A805N, SM-A8050, SM-A805F",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Haechi",
+        "Variantes": "SM-G889G",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy M10s",
+        "Variantes": "SM-M107F",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab A 101 2019",
+        "Variantes": "SM-T510, SM-T515, SM-T517, SM-T515N, SM-T517P",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab A 8 Plus 2019",
+        "Variantes": "SM-P200",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab A 84 2020",
+        "Variantes": "SM-T307U",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab A Plus 8 2019",
+        "Variantes": "SM-P205",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab S5e",
+        "Variantes": "SM-T725N, SM-T727A, SM-T727, SM-T720, SM-T725, SM-T725C, SM-T727V, SM-T727U, SM-T727R4",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab S7 FE",
+        "Variantes": "SM-T730",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A01",
+        "Variantes": "SM-S111DL, SM-A015V, SM-A015U1, SM-A015U, SM-A015T1, SM-A015AZ, SM-A015A, SM-A015F, SM-A015G, SM-A015M",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy A02",
+        "Variantes": "SM-M022G, SM-M022M, SM-A022G, SM-M022F, SM-A022F, SM-A022M",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy A02s",
+        "Variantes": "SM-A025M, SM-M025F, SM-A025F, SM-A025G, SM-E025F, SM-A025U1, SM-A025V, SM-A025AZ, SM-A025U, SM-A025A, SM-S124DL",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy A03",
+        "Variantes": "SM-A035F, SM-A035M, SM-A035G",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy A03s",
+        "Variantes": "SM-A037F, SM-A037M, SM-A037G, SM-A037U, SM-A037U1, SM-A037W, SM-S134DL, SM-S135DL",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy A04",
+        "Variantes": "SM-A045M, SM-A045F",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy A04e",
+        "Variantes": "SM-A042M, SM-A042F",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy A05",
+        "Variantes": "SM-A055M, SM-A055F",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy A05s",
+        "Variantes": "SM-A057F, SM-A057G, SM-A057M",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy A10s",
+        "Variantes": "SM-A107F, SM-A107M, SM-M017F",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy A11",
+        "Variantes": "SM-A115M, SM-A115F, SM-A115W, SM-A115AP, SM-A115A, SM-A115AZ, SM-A115U1, SM-A115U, SM-S115DL",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy A14",
+        "Variantes": "SM-A145M, SM-A145F, SM-A145P, SM-A145R",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy A14 5G",
+        "Variantes": "SM-A146W, SM-A146U, SM-A146U1, SM-A146M, SM-A146B, SM-A146P, SM-S146VL",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy A20s",
+        "Variantes": "SM-A2070, SM-A207M, SM-A207F",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy A21",
+        "Variantes": "SM-A215W, SM-S215DL, SM-A215U1, SM-A215U",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy A22 5G",
+        "Variantes": "SM-A226B, SM-A226L, SM-A226BR",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy A6s",
+        "Variantes": "SM-G6200",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy F04",
+        "Variantes": "SM-E045F",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy F42 5G",
+        "Variantes": "SM-E426S, SM-E426B",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy F52 5G",
+        "Variantes": "SM-E5260",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy Haechi",
+        "Variantes": "SM-G889F",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J1 Mini Prime",
+        "Variantes": "SM-J106F",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy J2 2018",
+        "Variantes": "SM-J250N",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy J3 2016",
+        "Variantes": "SM-J320F",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy M01",
+        "Variantes": "SM-M015G, SM-M015F",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy M04",
+        "Variantes": "SM-M045F",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy M10",
+        "Variantes": "SM-M105F, SM-M105G, SM-M105M, SM-M105Y",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy M11",
+        "Variantes": "SM-M115M, SM-M115F",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy M14",
+        "Variantes": "SM-M145F",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy M20",
+        "Variantes": "SM-M205F, SM-M205FN, SM-M205G, SM-M205M, SM-M205N",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy M21",
+        "Variantes": "SM-M215F",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy M21 2021",
+        "Variantes": "SM-M215G",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy M30",
+        "Variantes": "SM-M305F, SM-M305M",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy M30s",
+        "Variantes": "SM-M3070, SM-M307F, SM-M307FN",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy M31",
+        "Variantes": "SM-M315F, SM-F415F",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy M40",
+        "Variantes": "SM-M405F",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy On5 2015",
+        "Variantes": "SM-G550FY",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy Tab A 7 2016",
+        "Variantes": "SM-T285",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy Tab A8 2019",
+        "Variantes": "SM-T295N, SM-T290, SM-T295, SM-T295C, SM-T297",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy XCover FieldPro",
+        "Variantes": "SM-G889YB",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Gear 360 2017",
+        "Variantes": "SM-R210",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Gear 360 Pro",
+        "Variantes": "SM-R260",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Gear Fit2 Pro",
+        "Variantes": "SM-R365",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Watch4 40mm",
+        "Variantes": "SM-R860, SM-R865F, SM-R865U, SM-R865N",
+        "Support": "No"
+    },
+    {
+        "Model": "Watch4 44mm",
+        "Variantes": "SM-R870, SM-R875F, SM-R875N, SM-R875U",
+        "Support": "No"
+    },
+    {
+        "Model": "Watch4 Classic 42mm",
+        "Variantes": "SM-R880, SM-R885F, SM-R885N, SM-R885U",
+        "Support": "No"
+    },
+    {
+        "Model": "Watch4 Classic 46mm",
+        "Variantes": "SM-R895F, SM-R895N, SM-R895U, SM-R8950, SM-R890",
+        "Support": "No"
+    },
+    {
+        "Model": "Watch5 40mm",
+        "Variantes": "SM-R905N, SM-R900, SM-R905U, SM-R905F",
+        "Support": "No"
+    },
+    {
+        "Model": "Watch5 44mm",
+        "Variantes": "SM-R915N, SM-R910, SM-R9150, SM-R915U, SM-R915F",
+        "Support": "No"
+    },
+    {
+        "Model": "Watch5 Pro",
+        "Variantes": "SM-R925N, SM-R925U, SM-R925F, SM-R920",
+        "Support": "No"
+    },
+    {
+        "Model": "Watch6 40mm",
+        "Variantes": "SM-R935N, SM-R935U, SM-R935F, SM-R930",
+        "Support": "No"
+    },
+    {
+        "Model": "Watch6 44mm",
+        "Variantes": "SM-R945N, SM-R9450, SM-R945F, SM-R940, SM-R945U",
+        "Support": "No"
+    },
+    {
+        "Model": "Watch6 Classic 43mm",
+        "Variantes": "SM-R955N, SM-R955U, SM-R955F, SM-R950",
+        "Support": "No"
+    },
+    {
+        "Model": "Watch6 Classic 47mm",
+        "Variantes": "SM-R965N, SM-R965U, SM-R9650, SM-R960, SM-R965F",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy A6",
+        "Variantes": "SM-A600FN, SM-A600F, SM-A600G, SM-A600GN, SM-A600N, SM-A600P, SM-A600A, SM-A600AZ, SM-A600T, SM-A600T1, SM-A600U",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A6",
+        "Variantes": "SM-A605FN, SM-A6050, SM-A605F, SM-A605G, SM-A605GN, SM-A605K, SM-A6058",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A7 2018",
+        "Variantes": "SM-A750F, SM-A750FN, SM-A750G, SM-A750GN, SM-A750N, SM-A750C",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A8 2018",
+        "Variantes": "SC-02L",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A8 Star",
+        "Variantes": "SM-G8850, SM-G8858, SM-G885F, SM-G885S, SM-G885Y",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A8s",
+        "Variantes": "SM-G8870, SM-G887F",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A9 2018",
+        "Variantes": "SM-A920F, SM-A9200, SM-A920N",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A9 Pro",
+        "Variantes": "SM-G887N",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J4",
+        "Variantes": "SM-J400M, SM-J400G, SM-J400F",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J4",
+        "Variantes": "SM-J415N",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J6",
+        "Variantes": "SM-J600F, SM-J600FN, SM-J600G, SM-J600GT, SM-J600GF, SM-J600L, SM-J600N",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J6",
+        "Variantes": "SM-J610G, SM-J610F, SM-J610FN",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J7 Duo",
+        "Variantes": "SM-J720F, SM-J720M",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J7 Top",
+        "Variantes": "SM-J737S",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J8",
+        "Variantes": "SM-J810F, SM-J810M, SM-J810Y, SM-J810GF, SM-J810G",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S8 Lite",
+        "Variantes": "SM-G8750",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab A 105",
+        "Variantes": "SM-T595C, SM-T595N, SM-T597, SM-T597V, SM-T597P, SM-T597W, SM-T590, SM-T595",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab A 8 2018",
+        "Variantes": "SM-T387P, SM-T387V, SM-T387AA, SM-T387T, SM-T387R4",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab A 80",
+        "Variantes": "SM-T387W",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab S4",
+        "Variantes": "SM-T835N, SM-T837, SM-T830, SM-T835, SM-T837A, SM-T837P, SM-T837V, SM-T837R4, SM-T837T, SM-T835C",
+        "Support": "Yes"
+    },
+    {
+        "Model": "W2019",
+        "Variantes": "SM-W2019",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A30",
+        "Variantes": "SCV43, SCV43-j, SCV43-u",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Note9",
+        "Variantes": "SM-N960F, SM-N9600, SM-N960N, SM-N960U, SM-N960W, SM-N960U1, SC-01L, SCV40",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S9",
+        "Variantes": "SM-G9600, SM-G9608, SM-G960U, SM-G960U1, SM-G960W, SM-G960N, SM-G960F, SCV38, SC-02K",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S9",
+        "Variantes": "SM-G965F, SM-G965N, SM-G9650, SM-G965U, SM-G965U1, SM-G965W, SCV39, SC-03K",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J2 Core",
+        "Variantes": "SM-J260A, SM-S260DL, SM-J260AZ",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J5 2017",
+        "Variantes": "SM-J530G, SM-J530GM, SM-J530K, SM-J530L, SM-J530S, SM-J530Y, SM-J530YM, SM-J530F, SM-J530FM",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A7 2017",
+        "Variantes": "SM-A720S",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A8 2018",
+        "Variantes": "SM-A530F, SM-A530N, SM-A530W",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A8 2018",
+        "Variantes": "SM-A730F",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J3 2017",
+        "Variantes": "SM-J330L, SM-J330N, SM-J3308, SM-J330F, SM-J330FN, SM-J330G, SM-J3300",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J3 Top",
+        "Variantes": "SM-J337P, SM-J337V, SM-J337VPP, SM-J337U, SM-J337W, SM-S357BL, SM-S367VL, SM-J337R4, SM-J337R7, SM-J337A",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J4",
+        "Variantes": "SM-J415GN, SM-J415FN, SM-J415G, SM-J415F",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J7 2017",
+        "Variantes": "SM-J730K, SM-J730G, SM-J730GM, SM-J730F, SM-J730FM",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J7 Neo",
+        "Variantes": "SM-J701F, SM-J701M, SM-J701MT",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J7 Pop",
+        "Variantes": "SM-J727S",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J7 Top",
+        "Variantes": "SM-J737T, SM-J737V, SM-J737VPP, SM-J737R4, SM-J737U, SM-J737T1, SM-S767VL, SM-S757BL, SM-J737A, SM-J737P",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Note FE",
+        "Variantes": "SM-N935F, SM-N935S",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy On7 2018",
+        "Variantes": "SM-G611F, SM-G611K, SM-G611L, SM-G611S, SM-G611FF, SM-G611M, SM-G611MT",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S8 Active",
+        "Variantes": "SM-G892U, SM-G892A",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab A 8 2017",
+        "Variantes": "SM-T385K, SM-T385L, SM-T385M, SM-T385S, SM-T380, SM-T385",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab A 8 2018",
+        "Variantes": "SM-T387VK",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab Active2",
+        "Variantes": "SM-T395, SM-T395N, SM-T397U, SM-T390",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab S3",
+        "Variantes": "SM-T825C, SM-T825Y, SM-T827, SM-T827V, SM-T827R4, SM-T820, SM-T825N0, SM-T825",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy XCover4",
+        "Variantes": "SM-G390W, SM-G390Y, SM-G390F",
+        "Support": "Yes"
+    },
+    {
+        "Model": "W2018",
+        "Variantes": "SM-W2018",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Note8",
+        "Variantes": "SM-N950F, SM-N950N, SM-N950U1, SM-N9500, SM-N9508, SM-N950U, SM-N950W, SC-01K, SCV37",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S8",
+        "Variantes": "SM-G950F, SM-G950FD, SM-G950N, SM-G9500, SM-G9508, SM-G950U, SM-G950U1, SM-G950W, SC-02J, SCV36",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S8",
+        "Variantes": "SM-G955F, SM-G955FD, SM-G955N, SM-G9550, SM-G955U, SM-G955U1, SM-G955W, SC-03J",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy C8",
+        "Variantes": "SM-C7108, SM-C710F, SM-C7100",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J2 Core",
+        "Variantes": "SM-J260T1",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J3 Pop",
+        "Variantes": "SM-J327A, SM-J327R4, SM-J327R6, SM-J327R7, SM-J327U, SM-J327V, SM-J327VPP, SM-J327W",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J7 2016",
+        "Variantes": "SM-J710MN, SM-J710F, SM-J710FN, SM-J710GN, SM-J710K",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J7 Max",
+        "Variantes": "SM-G615F, SM-G615FU",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J7 Pop",
+        "Variantes": "SM-J727U, SM-J727T, SM-J727T1, SM-J727V, SM-J727VPP, SM-S737TL, SM-J727A, SM-J727AZ, SM-J727P, SM-J727R4",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy On5 2016",
+        "Variantes": "SM-G5510, SM-G5520, SM-G5528",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy On7 2016",
+        "Variantes": "SM-G610F, SM-G610K, SM-G610L, SM-G610M, SM-G610S",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab A 101 2016",
+        "Variantes": "SM-T580, SM-T585, SM-T585C, SM-T585N0, SM-T587, SM-T587P",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab A 101 Plus 2016",
+        "Variantes": "SM-P580, SM-P585, SM-P585M, SM-P585N0, SM-P585Y, SM-P587",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab A 101 w SPen",
+        "Variantes": "SM-P583, SM-P588C",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab A 8 2017",
+        "Variantes": "SM-T380C, SM-T385C",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab E 80",
+        "Variantes": "SM-T378V",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy View2",
+        "Variantes": "SM-T927A",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A3 2016",
+        "Variantes": "SC-04J",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A3 2017",
+        "Variantes": "SM-A320F, SM-A320FL, SM-A320Y",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A5 2017",
+        "Variantes": "SM-A520F, SM-A520K, SM-A520L, SM-A520S, SM-A520W",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A7 2017",
+        "Variantes": "SM-A720F",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A8 2016",
+        "Variantes": "SM-A810F, SM-A810YZ, SM-A810S",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A9 Pro 2016",
+        "Variantes": "SM-A9100, SM-A910F",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy C5",
+        "Variantes": "SM-C5000",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy C5 Pro",
+        "Variantes": "SM-C5010, SM-C5018",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy C7",
+        "Variantes": "SM-C7000",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy C7 Pro",
+        "Variantes": "SM-C7010, SM-C7018, SM-C701F",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy C9 Pro",
+        "Variantes": "SM-C9000, SM-C9008, SM-C900F, SM-C900Y",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J3 Top",
+        "Variantes": "SM-J337AZ, SM-J336AZ, SM-J337T",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy On5 2016",
+        "Variantes": "SM-G570F, SM-G570M, SM-G570Y",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy On7 2016",
+        "Variantes": "SM-G6100",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S7",
+        "Variantes": "SM-G930F, SM-G930FD, SM-G930K, SM-G930L, SM-G930S, SM-G9300, SM-G9308, SM-G930A, SM-G930AZ, SM-G930P, SM-G930R4, SM-G930R6, SM-G930R7, SM-G930T, SM-G930T1, SM-G930V, SM-G930VL, SM-G930W8, SM-G930U",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S7 Active",
+        "Variantes": "SM-G891A",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S7 Edge",
+        "Variantes": "SM-G935F, SM-G935K, SM-G935L, SM-G935S, SM-G9350, SM-G935A, SM-G935P, SM-G935R4, SM-G935T, SM-G935U, SM-G935V, SM-G935VC, SM-G935W8, SM-G935FD",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab A 101 2016",
+        "Variantes": "SM-T583",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab4 7",
+        "Variantes": "SM-T230NZ",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Samsung Galaxy J5 Prime 2016",
+        "Variantes": "SM-G5700",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A5 2015",
+        "Variantes": "SM-A5100",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A5 2016",
+        "Variantes": "SM-A5108",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A7 2016",
+        "Variantes": "SM-A7100, SM-A7108",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Folder 2",
+        "Variantes": "SM-G1650",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J2 2018",
+        "Variantes": "SM-J250F, SM-J250G, SM-J250M, SM-J250Y",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J3 2016",
+        "Variantes": "SM-J320A, SM-J320AZ, SM-J320V, SM-J320W8",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J5 2016",
+        "Variantes": "SM-J510F, SM-J510FN, SM-J510FQ, SM-J510GN, SM-J510H, SM-J510L, SM-J510MN, SM-J510S",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy On7 2015",
+        "Variantes": "SM-G600S",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A3 2016",
+        "Variantes": "SM-A310F, SM-A310M, SM-A310N0, SM-A310Y",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A5 2016",
+        "Variantes": "SM-A510F, SM-A510FD, SM-A510M, SM-A510Y",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A7 2016",
+        "Variantes": "SM-A710F, SM-A710FD, SM-A710K, SM-A710L, SM-A710M, SM-A710S",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J7 2015",
+        "Variantes": "SM-J700P, SM-J700T1, SM-J700T",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy On7 2016",
+        "Variantes": "SM-G610Y",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S5 Neo",
+        "Variantes": "SM-G903W",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab A 8 w SPen",
+        "Variantes": "SM-P355, SM-P355M",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab A 80",
+        "Variantes": "SM-T355, SM-T355Y, SM-T350",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab A 97",
+        "Variantes": "SM-T555, SM-T550",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab A 97 w SPen",
+        "Variantes": "SM-P555, SM-P555M, SM-P550",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab A Plus 97",
+        "Variantes": "SM-P555S",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab Active2",
+        "Variantes": "SM-T395C",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab E 80",
+        "Variantes": "SM-T377A, SM-T377P, SM-T377R4, SM-T377T, SM-T377V, SM-T377W",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab E 96",
+        "Variantes": "SM-T560NU, SM-T567V",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J3 Pop",
+        "Variantes": "SM-J326AZ, SM-J327AZ, SM-J327T, SM-J327T1, SM-S337TL",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Note5",
+        "Variantes": "SM-N9200, SM-N9208, SM-N920A, SM-N920C, SM-N920CD, SM-N920G, SM-N920I, SM-N920K, SM-N920L, SM-N920P, SM-N920S, SM-N920V, SM-N920W8, SM-N920T, SM-N920R4",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S6",
+        "Variantes": "SM-G920AZ, SM-G9200, SM-G9208, SM-G920A, SM-G920F, SM-G920FD, SM-G920FQ, SM-G920I, SM-G920P, SM-G920T, SM-G920V, SM-G920W8, SM-G920S, SM-G920R4, SM-G9209",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S6 Active",
+        "Variantes": "SM-G890A",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S6 edge",
+        "Variantes": "SM-G9250, SM-G925A, SM-G925F, SM-G925FQ, SM-G925I, SM-G925T, SM-G925V, SM-G925W8, SM-G925S",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S6 edge",
+        "Variantes": "SM-G9280, SM-G9287, SM-G9287C, SM-G928A, SM-G928C, SM-G928F, SM-G928G, SM-G928I, SM-G928W8, SM-G928T, SM-G928V",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab S2 80",
+        "Variantes": "SM-T710, SM-T713, SM-T715, SM-T715C, SM-T715Y, SM-T719, SM-T719C, SM-T719Y",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab S2 97",
+        "Variantes": "SM-T810, SM-T813, SM-T815, SM-T815C, SM-T815N0, SM-T815Y, SM-T817, SM-T817A, SM-T817P, SM-T817R4, SM-T817T, SM-T817V, SM-T817W, SM-T818, SM-T818A, SM-T818V, SM-T818W, SM-T819, SM-T819C, SM-T819Y, SM-T818T",
+        "Support": "Yes"
+    },
+    {
+        "Model": "G9298",
+        "Variantes": "SM-G9298",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Grand Prime Plus",
+        "Variantes": "SM-G532F, SM-G532G, SM-G532M, SM-G532MT",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Haechi",
+        "Variantes": "SM-G888N0",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J3 Pop",
+        "Variantes": "SM-J327P, SM-S327VL",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J7 Pop",
+        "Variantes": "SM-S727VL",
+        "Support": "Yes"
+    },
+    {
+        "Model": "W2017",
+        "Variantes": "SM-W2017",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A3 2015",
+        "Variantes": "SM-A300FU",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A5 2015",
+        "Variantes": "SM-A500F, SM-A500FQ, SM-A500FU, SM-A500H, SM-A500HQ, SM-A500M, SM-A500Y, SM-A500G",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A7 2015",
+        "Variantes": "SM-A7000, SM-A700F, SM-A700FD, SM-A700FQ, SM-A7009, SM-A700H",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A7 2016",
+        "Variantes": "SM-A710Y",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A8 2015",
+        "Variantes": "SM-A8000, SM-A800F, SM-A800I",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A9 2016",
+        "Variantes": "SM-A9000",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Folder 2 Dual SIM",
+        "Variantes": "SM-G1600, SM-G160N, SM-G165N",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J1 2016",
+        "Variantes": "SM-J120A, SM-J120AZ, SM-J120W, SM-S120VL",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J3 2016",
+        "Variantes": "SM-J320N0, SM-J320R4, SM-J320VPP, SM-S320VL",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J5 2015",
+        "Variantes": "SM-J500G, SM-J500F, SM-J500FN, SM-J500H, SM-J500Y, SM-J500M",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J5 2016",
+        "Variantes": "SM-J5108, SM-J510UN",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J7 2015",
+        "Variantes": "SM-J700H, SM-J700M, SM-J700F",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J7 2016",
+        "Variantes": "SM-J7108, SM-J7109",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Note Edge",
+        "Variantes": "SM-N9150, SM-N915F, SM-N915FY, SM-N915G, SM-N915T",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Note4",
+        "Variantes": "SM-N9100, SM-N910C, SM-N910CQ, SM-N910F, SM-N910G, SM-N910H, SM-N910U, SM-N910V, SM-N910T3, SM-N910T, SM-N910A",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy On5 2015",
+        "Variantes": "SM-G550T1, SM-S550TL",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy On7 2015",
+        "Variantes": "SM-G600F, SM-G600FY",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S5",
+        "Variantes": "SM-G900A, SM-G900F, SM-G900FQ, SM-G900H, SM-G900I, SM-G900M, SM-G900MD, SM-G900V, SM-G901F, SM-S903VL, SM-G900P, SM-G900T, SM-G9008W, SM-G9009D, SM-G9009W",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S5 Active",
+        "Variantes": "SM-G870A",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S5 Mini",
+        "Variantes": "SM-G800F, SM-G800H, SM-G800HQ, SM-G800M, SM-G800Y",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S5 Neo",
+        "Variantes": "SM-G903F, SM-G903M",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy S6",
+        "Variantes": "SM-S907VL",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab A 8 w SPen",
+        "Variantes": "SM-P350, SM-P355C, SM-P355Y",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab A 80",
+        "Variantes": "SM-T355C",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab A 97",
+        "Variantes": "SM-T555C",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab E 80",
+        "Variantes": "SM-T375L, SM-T375S, SM-T378K, SM-T378L, SM-T378S",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab S 105",
+        "Variantes": "SM-T805Y",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab S 105",
+        "Variantes": "SM-T800, SM-T805, SM-T805C, SM-T805M, SM-T807, SM-T807P, SM-T807V",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab S 84",
+        "Variantes": "SM-T700, SM-T705, SM-T705C, SM-T705M, SM-T705Y, SM-T707A, SM-T707V",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab4 101",
+        "Variantes": "SM-T536",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab4 7",
+        "Variantes": "SM-T230NW",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy XCover3",
+        "Variantes": "SM-G389F",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J1 2016",
+        "Variantes": "SM-J120F, SM-J120FN, SM-J120G, SM-J120M, SM-J120ZN",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J3 2016",
+        "Variantes": "SM-J320Y, SM-J320ZN, SM-J320P, SM-J3109",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J3 Pro",
+        "Variantes": "SM-J3110, SM-J3119, SM-J3119S",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab3 Lite",
+        "Variantes": "SM-T116IR",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy View",
+        "Variantes": "SM-T670, SM-T677V",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab Active",
+        "Variantes": "SM-T360, SM-T365, SM-T365F0, SM-T365M, SM-T365Y",
+        "Support": "Yes"
+    },
+    {
+        "Model": "W2016",
+        "Variantes": "SM-W2016",
+        "Support": "Yes"
+    },
+    {
+        "Model": "G9198",
+        "Variantes": "SM-G9198",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy E7",
+        "Variantes": "SM-E700F, SM-E700H, SM-E700M",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J2 2015",
+        "Variantes": "SM-J200BT, SM-J200F, SM-J200G, SM-J200GU, SM-J200M, SM-J200Y",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Note 101 2014 Edition",
+        "Variantes": "SM-P600, SM-P601, SM-P605, SM-P605V, SM-P605M",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Note Pro 122",
+        "Variantes": "SM-P905V, SM-P907A",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Note3 Neo",
+        "Variantes": "SM-N750, SM-N7505",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab E 80",
+        "Variantes": "SM-T3777",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab Pro 122",
+        "Variantes": "SM-T900, SM-T905",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab4 101",
+        "Variantes": "SM-T530",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab4 7",
+        "Variantes": "SM-T235, SM-T237P",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy XCover3",
+        "Variantes": "SM-G388F",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A5 2015",
+        "Variantes": "SM-A5000",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A7 2015",
+        "Variantes": "SM-A700YD",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Core Prime",
+        "Variantes": "SM-G360G, SM-G361F",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy E5",
+        "Variantes": "SM-E500H, SM-E500HQ, SM-E500M",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Folder LTE",
+        "Variantes": "SM-G150N0",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Grand Prime",
+        "Variantes": "SM-G530BT, SM-G530FQ, SM-G530FZ, SM-G530H, SM-G530M, SM-G530W, SM-G531F, SM-G531M",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J5 2015",
+        "Variantes": "SM-J500N0, SM-J5008",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy J7 2015",
+        "Variantes": "SM-J7008",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab A 97 w SPen",
+        "Variantes": "SM-P555Y",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab4 101",
+        "Variantes": "SM-T530NU, SM-T531, SM-T532, SM-T535, SM-T533",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Tab4 80",
+        "Variantes": "SM-T330, SM-T330NU, SM-T331, SM-T332, SM-T335, SM-T337A, SM-T337T, SM-T337V",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy A01 Core",
+        "Variantes": "SM-A013F, SM-A013G, SM-M013F, SM-A013M",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy A03 Core",
+        "Variantes": "SM-A032M, SM-A032F",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy A2 Core",
+        "Variantes": "SM-A260G, SM-A260F",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy J2 Core",
+        "Variantes": "SM-J260M, SM-J260Y, SM-J260G, SM-J260F, SM-J260GU, SM-J260MU, SM-J260FU",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy J4 Core",
+        "Variantes": "SM-J410G, SM-J410F",
+        "Support": "No"
+    },
+    {
+        "Model": "Galaxy Watch 42mm",
+        "Variantes": "SM-R815F, SM-R810, SM-R815N, SM-R815U, SM-R815W",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Watch 46mm",
+        "Variantes": "SM-R8050, SM-R805F, SM-R800, SM-R805N, SM-R805U, SM-R805W",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Watch Active",
+        "Variantes": "SM-R500",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Watch Active2 40mm",
+        "Variantes": "SM-R830S, SM-R830, SM-R835US, SM-R835FS, SM-R835F",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Watch Active2 44mm",
+        "Variantes": "SM-R820, SM-R820S, SM-R825US, SM-R825FS, SM-R825F",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Watch3 41mm",
+        "Variantes": "SM-R855U, SM-R855N, SM-R855F, SM-R850",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Galaxy Watch3 45mm",
+        "Variantes": "SM-R845U, SM-R840T, SM-R845N, SM-R8450, SM-R845F, SM-R840",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Gear S3 Classic",
+        "Variantes": "SM-R775A, SM-R775S, SM-R775T, SM-R770",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Gear S3 Frontier",
+        "Variantes": "SM-R765, SM-R765A, SM-R765T, SM-R760, SM-R765F, SM-R765N",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Gear Sport",
+        "Variantes": "SM-R600",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Gear S3 Classic",
+        "Variantes": "SM-R775V",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Gear S3 Frontier",
+        "Variantes": "SM-R765V",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Gear S2",
+        "Variantes": "SM-R720, SM-R730A, SM-R730S, SM-R730V, SM-R730T",
+        "Support": "Yes"
+    },
+    {
+        "Model": "Gear S2 Classic",
+        "Variantes": "SM-R732, SM-R735, SM-R735A, SM-R735V, SM-R735S",
+        "Support": "Yes"
+    }
+]
